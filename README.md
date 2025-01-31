@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1999<br>📚 I'm currently learning React, Next, Nest and .NET<br>💻 All of my projects are available at https://imanolherreroportfolio.vercel.app//<br>📫 How to reach me:</p>
+<p align="left">✨ Creating bugs since 1999<br>📚 I'm currently learning React, Next, Nest and .NET<br>💻 All of my projects are available at https://imanolherreroportfolio.vercel.app/<br>📫 How to reach me:</p>
 
 ###
 
