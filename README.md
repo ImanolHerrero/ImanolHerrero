@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey, I'm Imanol Herrero and I want to build beautiful and efficient websites.<br>If you are looking for someone serious and commited to this industry, I highly recommend that you contact me. I would love to talk to you.</p>
+<p align="left">I am a developer <strong>with experience</strong> in both Front End and Back End. I specialize mainly in <strong>problem-solving</strong>, contributing ideas, and providing solutions. I am both a <strong>logical</strong> and <strong>creative</strong> person who can add value individually as well as in a team. I enjoy <strong>technical challenges</strong> that allow me to grow and learn something new every day.</p>
 
 ###
 
