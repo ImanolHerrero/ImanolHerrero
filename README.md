@@ -4,6 +4,8 @@
 
 <p align="left">I am a developer <strong>with experience</strong> in both Front End and Back End. I specialize mainly in <strong>problem-solving</strong>, contributing ideas, and providing solutions. I am both a <strong>logical</strong> and <strong>creative</strong> person who can add value individually as well as in a team. I enjoy <strong>technical challenges</strong> that allow me to grow and learn something new every day.</p>
 
+**Check out my portfolio here: https://imanolherreroportfolio.vercel.app/**
+
 ###
 
 <h2 align="left">About me</h2>
